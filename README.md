@@ -1,6 +1,7 @@
 - 👋 Hi, Dipali Baviskar
 - 👀 I’m interested learning new things..
-- 🌱 I’m currently learning backend technology-NodeJs,JavaScript,MongoDB..
+- 🌱 I learned about backend technology-NodeJs,JavaScript,MongoDB..
+- 🌱 I’m currently working front end technology-AngularJs,typeScript,ionic framenwork
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
